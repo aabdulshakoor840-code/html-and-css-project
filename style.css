@@ -1,0 +1,36 @@
+div{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(84, 94, 53);
+ 
+    /* opacity: 0.5; */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-bottom: 40px,40px,40px ,40px;
+
+    display: inline-block;
+    /* border-radius: 50%; */
+}
+.a{
+
+
+    display: inline-block;
+
+    
+}
+
+#b{
+
+background-color: rgb(153, 242, 241);
+
+}
+nav ul li{
+    padding: 20px;
+}
+ header{
+    background-color: rgb(63, 53, 73);
+} 
